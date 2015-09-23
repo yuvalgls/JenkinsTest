@@ -9,7 +9,6 @@ public class Mainclass {
 		System.out.println(sum(5,5));
 
 	}
-	
 	public static int sum(int a, int b){
 		return a+b;
 	}
