@@ -7,6 +7,8 @@ public class Mainclass {
 		System.out.println(sum(3,3));
 		System.out.println(sum(3,6));
 		System.out.println(sum(5,5));
+		System.out.println("output should be : 2, 6, 9, 10" );
+		System.out.println("Done");
 
 	}
 	public static int sum(int a, int b){
